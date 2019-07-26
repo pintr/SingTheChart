@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sing the chart</string>
+    <string name="album_art">Album art</string>
+    <string name="label_lyrics">Lyrics</string>
+    <string name="default_country">it</string>
+    <string name="field_pupop">mPopup</string>
+</resources>

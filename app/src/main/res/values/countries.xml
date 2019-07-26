@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+        <item>it</item>
+        <item>br</item>
+        <item>ca</item>
+        <item>cn</item>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>in</item>
+        <item>ru</item>
+        <item>uk</item>
+        <item>us</item>
+    </string-array>
+</resources>
